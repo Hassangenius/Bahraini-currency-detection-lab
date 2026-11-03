@@ -1,10 +1,9 @@
-streamlit as st
-ultralytics import YOLO
-from PIL import Image
-numpy as np
-os
-roboflow import Roboflow
-import sys
-import matplotlib.pyplot as plt
-import cv2
-from IPython.display import display, clear_output
+
+streamlit
+ultralytics
+Pillow
+numpy
+roboflow
+matplotlib
+opencv-python-headless
+ipython
