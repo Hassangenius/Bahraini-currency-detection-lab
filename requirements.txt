@@ -1,9 +1,7 @@
-
 streamlit
 ultralytics
+roboflow
 Pillow
 numpy
-roboflow
 matplotlib
-opencv-python-headless
 ipython
